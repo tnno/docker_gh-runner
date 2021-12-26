@@ -6,7 +6,7 @@ ENV DEBIAN_FRONTEND "noninteractive"
 ENV TOKEN ""
 ENV GH_URL ""
 ENV RUNNER_VERSION "2.285.1"
-ENV RUNNER_TYPE "linux-x64"
+ENV RUNNER_TYPE "linux-x64" # or "linux-arm64"
 ENV RUNNER_NAME "test-runner"
 ENV RUNNER_LABELS "test-label"
 
