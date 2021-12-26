@@ -1,4 +1,4 @@
-# Github Runner in Docker or Kubernetes
+# Github Runner in Docker for Kubernetes
 
 ## Examples
 ### Kubernetes
